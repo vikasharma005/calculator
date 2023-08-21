@@ -35,7 +35,7 @@ Welcome to StreamCalc, your versatile calculator app built with Streamlit! Wheth
    - Open your terminal and navigate to the project directory.
    - Run the following command:
      ```
-     streamlit run app.py
+     streamlit run main.py
      ```
    
 3. **Using the App:**
