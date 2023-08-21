@@ -1,6 +1,6 @@
 **StreamCalc - Your All-in-One Calculator Companion**
 
-![StreamCalc Logo](link_to_logo_image)
+![StreamCalc Logo](https://github.com/vikasharma005/calculator/blob/main/images/logo.png)
 
 Welcome to StreamCalc, your versatile calculator app built with Streamlit! Whether you're crunching numbers, planning loans, estimating ages, analyzing statistics, or solving equations, StreamCalc has you covered. With its intuitive interface and powerful functionality, StreamCalc is designed to make your calculations a breeze.
 
